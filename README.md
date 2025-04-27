@@ -1,5 +1,5 @@
 Projeto: Sistema de Animais (POO em Java)
-Descrição
+
 Este projeto é uma aplicação simples desenvolvida em Java para praticar conceitos de Programação Orientada a Objetos (POO), como:
 
 - Criação de classes
