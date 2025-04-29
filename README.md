@@ -12,7 +12,7 @@
 
 > O projeto envolve três classes principais (Animal, Peixe, Mamifero) e uma classe de teste (TestarAnimais) para demonstrar o funcionamento do sistema.
 
-##Estrutura das Classes
+## Estrutura das Classes
 
 ### 🐾 Classe Animal
 
