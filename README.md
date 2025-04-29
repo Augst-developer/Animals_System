@@ -1,6 +1,6 @@
-Projeto: Sistema de Animais (POO em Java)
+# Projeto: Sistema de Animais (POO em Java)
 
-Este projeto é uma aplicação simples desenvolvida em Java para praticar conceitos de Programação Orientada a Objetos (POO), como:
+### Este projeto é uma aplicação simples desenvolvida em Java para praticar conceitos de Programação Orientada a Objetos (POO), como:
 
 - Criação de classes
 
@@ -10,11 +10,11 @@ Este projeto é uma aplicação simples desenvolvida em Java para praticar conce
 
 - Métodos e atributos
 
-O projeto envolve três classes principais (Animal, Peixe, Mamifero) e uma classe de teste (TestarAnimais) para demonstrar o funcionamento do sistema.
+### O projeto envolve três classes principais (Animal, Peixe, Mamifero) e uma classe de teste (TestarAnimais) para demonstrar o funcionamento do sistema.
 
 Estrutura das Classes
 
-🐾 Classe Animal
+### 🐾 Classe Animal
 
 - Atributos: nome, comprimento, patas, cor, ambiente, velocidade.
 
@@ -26,7 +26,7 @@ Estrutura das Classes
 
   - Método dados(): imprime todos os dados do animal.
 
-🐟 Classe Peixe
+### 🐟 Classe Peixe
 
 - Herda de: Animal.
 
@@ -40,7 +40,7 @@ Estrutura das Classes
 
   - Método dadosPeixe(): imprime dados do animal + característica do peixe.
 
-🐻 Classe Mamifero
+### 🐻 Classe Mamifero
 - Herda de: Animal.
 
 - Atributo adicional: alimento.
@@ -53,7 +53,7 @@ Estrutura das Classes
 
   - Método dadosMamifero(): imprime dados do animal + alimento do mamífero.
 
-🧪 Classe TestarAnimais
+### 🧪 Classe TestarAnimais
 - Possui o método main que cria objetos das classes e chama os métodos para exibir os dados:
 
     - Camelo (Mamífero)
