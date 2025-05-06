@@ -14,7 +14,7 @@
 
 ## Estrutura das Classes
 
-### 🐾 Classe Animal
+### Classe Animal
 
 - Atributos: nome, comprimento, patas, cor, ambiente, velocidade.
 
@@ -26,7 +26,7 @@
 
   - Método dados(): imprime todos os dados do animal.
 
-### 🐟 Classe Peixe
+### Classe Peixe
 
 - Herda de: Animal.
 
@@ -40,7 +40,7 @@
 
   - Método dadosPeixe(): imprime dados do animal + característica do peixe.
 
-### 🐻 Classe Mamifero
+### Classe Mamifero
 - Herda de: Animal.
 
 - Atributo adicional: alimento.
@@ -53,7 +53,7 @@
 
   - Método dadosMamifero(): imprime dados do animal + alimento do mamífero.
 
-### 🧪 Classe TestarAnimais
+### Classe TestarAnimais
 - Possui o método main que cria objetos das classes e chama os métodos para exibir os dados:
 
     - Camelo (Mamífero)
